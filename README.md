@@ -1,6 +1,6 @@
 # multi-function-robot-arm
-include <Servo.h>
-include <Stepper.h>
+#include <Servo.h>
+#include <Stepper.h>
 // Define the servo pins
 const int shoulderPin = 9;
 const int elbowPin = 10;
